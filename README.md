@@ -6,12 +6,23 @@ Minha base vem de quase 10 anos em TI (desde 2017), com suporte, infraestrutura,
 
 🔗 [hallyssoncorreia.com](https://hallyssoncorreia.com) · [LinkedIn](https://www.linkedin.com/in/hallysson-correia-722965218)
 
-## O que eu construo
+## Serviços
 
-- **SaaS de gestão**: agendamento, caixa e comissões para barbearias e salões, com app mobile
-- **E-commerce com IA**: loja de autopeças integrada a Mercado Pago e Mercado Livre, com agente de atendimento no WhatsApp
-- **Sites institucionais com área administrativa**
-- **Automações e agentes de IA** com n8n, LLMs e integrações via API
+- 🤖 **Agentes de IA no WhatsApp**: atendimento 24h que consulta estoque, registra pedidos e agenda, com RAG e passagem para humano
+- ⚙️ **Automação de processos** com n8n e APIs
+- 🧩 **Sistemas sob medida e SaaS**: agendamento, financeiro, assinaturas, painéis administrativos e app mobile
+- 🌐 **Sites e landing pages** com SEO e área para editar o conteúdo
+- 🛒 **E-commerce e pagamentos**: Mercado Pago, PIX, Mercado Livre
+
+## Projetos em destaque
+
+| Projeto | O que é |
+|---|---|
+| [Ninchoo](https://github.com/HallyCorreia/ninchoo-showcase) · [no ar](https://ninchoo.com.br) | SaaS multiempresa para barbearias e salões |
+| [E-commerce com agente de IA](https://github.com/HallyCorreia/ecommerce-autopecas-ia-showcase) | Loja de autopeças com agente de IA no WhatsApp (RAG, tool use, multi-LLM) |
+| [Site de intérprete de Libras](https://github.com/HallyCorreia/alisson-alcantara-showcase) · [no ar](https://alissonalcantara.com.br) | Site com área administrativa e SEO |
+
+📬 Aberto a projetos freelance. Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/hallysson-correia-722965218) ou pelo [site](https://hallyssoncorreia.com).
 
 ## Stack
 
