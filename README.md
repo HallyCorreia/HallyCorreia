@@ -1,6 +1,8 @@
 # Olá, eu sou o Hallysson 👋
 
-Profissional de TI desde 2017: suporte técnico, banco de dados (SQL Server), infraestrutura e redes. Hoje meu foco é **automação de processos e IA aplicada**: agentes, integrações e sistemas web sob medida para pequenos negócios.
+Desenvolvedor **full stack com foco em IA**. Construo produtos web de ponta a ponta, do banco de dados à interface, com agentes de IA, automações e integrações no centro: SaaS, e-commerce e sistemas sob medida para pequenos negócios.
+
+Minha base vem de quase 10 anos em TI (desde 2017), com suporte, infraestrutura, redes e SQL Server. Essa experiência me ajuda a entregar sistemas que funcionam bem em produção, não só na demo.
 
 🔗 [hallyssoncorreia.com](https://hallyssoncorreia.com) · [LinkedIn](https://www.linkedin.com/in/hallysson-correia-722965218)
 
